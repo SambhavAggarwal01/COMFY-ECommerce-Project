@@ -83,7 +83,7 @@ PRODUCTS PAGE
 <img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.17.56.png" alt = "PRODUCTS PAGE" />
 <br>
 
-Filter Functionalities
+Filter Functionalities:
 
 <br>
 
@@ -97,29 +97,120 @@ Filter By Price Range
 Filter By Product Name
 
 <br>
+
 <img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.18.29.png" alt = "Filter By Product Name" />
 
-<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.18.51.png" alt = "Cart System" />
-<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.19.21.png" alt = "About Page" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
+<br>
 
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
+Filter by Company Name
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-29%2003.51.56.png" alt = "Filter by Company Name" />
+
+<br>
+
+INDIVIDUAL PRODUCT PAGE
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-29%2002.28.27.png" alt = "INDIVIDUAL PRODUCT PAGE" />
+
+<br>
+
+ABOUT PAGE
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.19.21.png" alt = "About Page" />
+
+<br>
+
+CART SYSTEM
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.18.51.png" alt = "Cart System" />
+
+<br>
+
+<br>
+
+MOBILE SCREEN VIEWS
+
+<br>
+
+<br>
+
+HOME PAGE
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.57.25.png" alt = "Home Page" /> 
+
+<br>
+
+Featured Products
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.57.32.png" alt = "Featured Products" />
+<br>
+
+
+
+PRODUCTS PAGE
+
+<br>
+    
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.57.46.png" alt = "PRODUCTS PAGE" />
+<br>
+
+<br>
+    
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.57.52.png" alt = "PRODUCTS PAGE" />
+<br>
+
+Navigation
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.57.37.png" alt = "Navigation" />
+
+<br>
+
+INDIVIDUAL PRODUCT PAGE
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.58.19.png" alt = "INDIVIDUAL PRODUCT PAGE" />
+
+<br>
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.58.22.png" alt = "INDIVIDUAL PRODUCT PAGE" />
+
+<br>
+
+ABOUT PAGE
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.58.37.png" alt = "About Page" />
+
+<br>
+
+CART SYSTEM
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.58.27.png" alt = "Cart System" />
+
+<br>
+
+Showcasing the Loading Transition
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-29%2002.28.34.png" alt = "Loading" />
+<br>
