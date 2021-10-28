@@ -1,6 +1,8 @@
-# COMFY-ECommerce-Project
+# COMFY ECommerce Project
 
-A Vanilla JavaScript E-Commerce Application for a variety of Furniture Products. The Application "JavaScript Store Products" API
+You can visit The Comfy Store by clicking this link : https://sambhavaggarwal01.github.io/COMFY-ECommerce-Project/
+
+A Responsive Vanilla JavaScript E-Commerce Application for a variety of Furniture Products. The Application "JavaScript Store Products" API
 
 In this Project the JavaScript Fuctionality is divided into various "Modules" for code maintainability, reusability & reducing redudancy of code. Making use of Modules makes the code efficient to use and debugging the code is easier.
 <br>
@@ -9,12 +11,13 @@ This Application uses the concept of AJAX to fetch the data from the API. <br>
 <br>
 
 The Project tries: <br>
-
-    To provide a wide variety of furniture products to customers from the comfort of their homes. <br>
-    To develop a user interface which is handy for the end users. <br>
-    To develop a responsive website that can be easily viewed and provide all functionality of the website on all kinds of devices. <br>
-    To overcome the problems of availability, cost and quality of products which is a major problem in existing offline or physical shopping ( in this case furniture products). 
-    To overcome the problems arise due covid-19 pandemic. <br>
+<ul>
+<li> To provide a wide variety of furniture products to customers from the comfort of their homes. </li> 
+<li> To develop a user interface which is handy for the end users. </li>
+<li> To develop a responsive website that can be easily viewed and provide all functionality of the website on all kinds of devices. </li>
+<li> To overcome the problems of availability, cost and quality of products which is a major problem in existing offline or physical shopping ( in this case furniture products). </li> 
+<li> To overcome the problems arise due covid-19 pandemic. </li>
+</ul>    
 
 <br>
 
@@ -46,6 +49,7 @@ Also, there are many small icons to beautify the UI and many icons have been cus
 There are also animations and transitions in the web application and a Loading Transition for every process to make the application more interactive.
 
 
+
 # PROJECT SCREENSHOTS:
 
 <br>
@@ -54,17 +58,49 @@ HOME PAGE
 
 <br>
 
-<img src = "" alt = "Home Page" />
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.17.21.png" alt = "Home Page" /> 
 
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
+<br>
 
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
-<img src = "" alt = "" />
+Featured Products
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.17.27.png" alt = "Featured Products" />
+<br>
+
+Showcasing the Hover Functionality
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.17.35.png" alt = " Showcasing the Hover Functionality" />
+<br>
+
+PRODUCTS PAGE
+
+<br>
+    
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.17.56.png" alt = "PRODUCTS PAGE" />
+<br>
+
+Filter Functionalities
+
+<br>
+
+Filter By Price Range 
+
+<br>
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.18.04.png" alt = "Filter Bt Price Range " />
+<br>
+
+Filter By Product Name
+
+<br>
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.18.29.png" alt = "Filter By Product Name" />
+
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.18.51.png" alt = "Cart System" />
+<img src = "https://github.com/SambhavAggarwal01/COMFY-ECommerce-Project/blob/main/Project%20Screenshots/Screenshot%202021-10-22%2017.19.21.png" alt = "About Page" />
 <img src = "" alt = "" />
 <img src = "" alt = "" />
 <img src = "" alt = "" />
