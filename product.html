@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Single Product</title>
+    <!-- font-awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+
+    <!-- styles css -->
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <!--Navbar-->
+    <nav class="navbar page">
+        <div class="nav-center">
+
+            <!--Links-->
+
+            <div>
+                <button class="toggle-nav">
+            <i class="fas fa-bars"></i>
+          </button>
+                <ul class="nav-links">
+                    <li>
+                        <a href="index.html" class="nav-link">Home</a>
+                    </li>
+                    <li>
+                        <a href="products.html" class="nav-link">Products</a>
+                    </li>
+                    <li>
+                        <a href="about.html" class="nav-link">About</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!--Logo-->
+
+            <img src="./images/logo-black.svg" class="nav-logo" alt="logo">
+
+            <!--Cart Icon-->
+
+            <div class="toggle-container">
+                <button class="toggle-cart">
+            <i class="fas fa-shopping-cart"></i>
+          </button>
+                <span class="cart-item-count"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+
+    <section class="page-hero">
+        <div class="section-center">
+            <h3 class="page-hero-title">Home / Single Product</h3>
+        </div>
+    </section>
+
+    <!--Sidebar-->
+
+    <div class="sidebar-overlay">
+        <aside class="sidebar">
+            <!--Close Button-->
+            <button class="sidebar-close">
+          <i class="fas fa-times"></i>
+        </button>
+
+            <!--links-->
+            <ul class="sidebar-links">
+                <li>
+                    <a href="index.html" class="sidebar-link">
+                        <i class="fas fa-home fa-fw">Home</i>
+                    </a>
+                </li>
+                <li>
+                    <a href="products.html" class="sidebar-link">
+                        <i class="fas fa-couch fa-fw">Products</i>
+                    </a>
+                </li>
+                <li>
+                    <a href="about.html" class="sidebar-link">
+                        <i class="fas fa-book fa-fw">About</i>
+                    </a>
+                </li>
+            </ul>
+        </aside>
+    </div>
+
+    <!-- Cart -->
+    <div class="cart-overlay">
+        <aside class="cart">
+            <button class="cart-close">
+          <i class="fas fa-times"></i>
+        </button>
+            <header>
+                <h3 class="text-slanted">Your Bag</h3>
+            </header>
+
+            <!--Cart Items -->
+            <div class="cart-items">
+                <!--Cart Items added dynamically-->
+            </div>
+
+            <!-- Cart Footer-->
+            <footer>
+                <h3 class="cart-total text-slanted">
+                    Total :
+                </h3>
+                <button class="cart-checkout btn">Checkout</button>
+            </footer>
+        </aside>
+    </div>
+    <!--Product Info-->
+    <section class="single-product">
+        <div class="section-center single-product-center">
+            <img src="" alt="" class="single-product-img img" alt="">
+            <article class="single-product-info">
+                <div>
+                    <h2 class="single-product-title"></h2>
+                    <p class="single-product-company text-slanted"></p>
+                    <p class="single-product-price"></p>
+                    <div class="single-product-colors"></div>
+                    <p class="single-product-desc"></p>
+                    <button class="addToCartBtn btn" data-id="">Add To Cart</button>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <!-- Page Loading -->
+    <div class="page-loading">
+        <h2>Loading...</h2>
+    </div>
+    <script type="module" src="./src/pages/product.js"></script>
+</body>
+
+</html>
